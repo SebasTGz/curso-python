@@ -5,6 +5,7 @@
 
 import os
 os.system("clear")
+#modulo del systema operativo para llamar al comando clear y se limpie la terminal
 
 print("\n Sentencia simple condicional")
 

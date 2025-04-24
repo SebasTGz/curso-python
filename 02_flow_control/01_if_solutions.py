@@ -62,7 +62,7 @@ else:
 print("\nEjercicio 4:")
 edad = int(input("Introduce una edad: "))
 
-if 0 <= edad <= 2:
+if edad >= 0 and edad <= 2:
     print("Bebé")
 elif 3 <= edad <= 12:
     print("Niño")
